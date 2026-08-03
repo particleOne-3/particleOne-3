@@ -16,13 +16,7 @@
 
 ## About Me
 
-I'm a Computer Science student and backend developer who enjoys turning real-world problems into clean, working software. My focus is on building reliable backend systems, and I'm actively growing into full-stack and system design work as well.
-
-- 🎓 Computer Science student
-- 💻 Backend developer, learning full-stack
-- 🧩 Enjoy solving practical, real-world problems
-- 📈 Interested in building systems that scale
-- 📚 Consistently learning new tools and technologies
+I'm a Computer Science student and backend developer who enjoys turning real-world problems into clean, working software. My focus is on building reliable backend systems, and I'm actively growing into full-stack development and system design.
 
 <br/>
 
@@ -41,39 +35,17 @@ I'm a Computer Science student and backend developer who enjoys turning real-wor
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://img.shields.io/badge/C++-0D0B16?style=for-the-badge&logo=cplusplus&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Java-0D0B16?style=for-the-badge&logo=openjdk&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/JavaScript-0D0B16?style=for-the-badge&logo=javascript&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/TypeScript-0D0B16?style=for-the-badge&logo=typescript&logoColor=A855F7&labelColor=0D0B16" />
+| Category | Technologies |
+|---|---|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-0D0B16?style=flat-square&logo=cplusplus&logoColor=A855F7) ![Java](https://img.shields.io/badge/Java-0D0B16?style=flat-square&logo=openjdk&logoColor=A855F7) ![JavaScript](https://img.shields.io/badge/JavaScript-0D0B16?style=flat-square&logo=javascript&logoColor=A855F7) ![TypeScript](https://img.shields.io/badge/TypeScript-0D0B16?style=flat-square&logo=typescript&logoColor=A855F7) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0D0B16?style=flat-square&logo=react&logoColor=A855F7) ![HTML5](https://img.shields.io/badge/HTML5-0D0B16?style=flat-square&logo=html5&logoColor=A855F7) ![CSS3](https://img.shields.io/badge/CSS3-0D0B16?style=flat-square&logo=css3&logoColor=A855F7) ![Tailwind](https://img.shields.io/badge/Tailwind-0D0B16?style=flat-square&logo=tailwindcss&logoColor=A855F7) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D0B16?style=flat-square&logo=springboot&logoColor=A855F7) ![Node.js](https://img.shields.io/badge/Node.js-0D0B16?style=flat-square&logo=nodedotjs&logoColor=A855F7) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0B16?style=flat-square&logo=postgresql&logoColor=A855F7) ![MySQL](https://img.shields.io/badge/MySQL-0D0B16?style=flat-square&logo=mysql&logoColor=A855F7) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-0D0B16?style=flat-square&logo=git&logoColor=A855F7) ![Docker](https://img.shields.io/badge/Docker-0D0B16?style=flat-square&logo=docker&logoColor=A855F7) ![Linux](https://img.shields.io/badge/Linux-0D0B16?style=flat-square&logo=linux&logoColor=A855F7) ![VS Code](https://img.shields.io/badge/VS_Code-0D0B16?style=flat-square&logo=visualstudiocode&logoColor=A855F7) ![Postman](https://img.shields.io/badge/Postman-0D0B16?style=flat-square&logo=postman&logoColor=A855F7) |
 
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-0D0B16?style=for-the-badge&logo=react&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/HTML5-0D0B16?style=for-the-badge&logo=html5&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/CSS3-0D0B16?style=for-the-badge&logo=css3&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D0B16?style=for-the-badge&logo=tailwindcss&logoColor=A855F7&labelColor=0D0B16" />
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Spring_Boot-0D0B16?style=for-the-badge&logo=springboot&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Node.js-0D0B16?style=for-the-badge&logo=nodedotjs&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Express-0D0B16?style=for-the-badge&logo=express&logoColor=A855F7&labelColor=0D0B16" />
-
-**Database**
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D0B16?style=for-the-badge&logo=postgresql&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/MySQL-0D0B16?style=for-the-badge&logo=mysql&logoColor=A855F7&labelColor=0D0B16" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-0D0B16?style=for-the-badge&logo=git&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/GitHub-0D0B16?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Docker-0D0B16?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Linux-0D0B16?style=for-the-badge&logo=linux&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/VS_Code-0D0B16?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7&labelColor=0D0B16" />
-<img src="https://img.shields.io/badge/Postman-0D0B16?style=for-the-badge&logo=postman&logoColor=A855F7&labelColor=0D0B16" />
+</div>
 
 <br/>
 
