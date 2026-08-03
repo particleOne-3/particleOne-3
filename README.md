@@ -1,52 +1,77 @@
 <div align="center">
 
-# Hi, I'm Gajendra 👋
+# ⚛️ particleOne-3
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Developer;Spring+Boot+%7C+React;DSA+Enthusiast;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+Software;Spring+Boot+%7C+React;Always+Learning..." />
 
-Computer Science student passionate about building scalable software and solving challenging problems.
+> *"Every great system starts as a small idea."*
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About
 
-* 🎓 CS Student @ University of Delhi
-* ⚙️ Interested in **Backend Development** & **System Design**
-* 🧩 Solving **Data Structures & Algorithms**
-* 🌱 Currently learning **Spring Boot, React & Docker**
-* ⚛️ Quantum physics enthusiast *(particle13)*
+I'm **Gajendra**, a Computer Science student who enjoys building reliable software, solving algorithmic problems, and continuously learning new technologies.
+
+My online identity, **particleOne-3**, comes from my fascination with **quantum physics**—where even the smallest particles can create extraordinary possibilities.
 
 ---
 
-### 🛠 Tech Stack
+## ⚡ Current Focus
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,spring,postgres,docker,git,linux,vscode" />
-</p>
+- 🏗️ Backend Development
+- ☕ Java & Spring Boot
+- ⚛️ React & TypeScript
+- 🧩 Data Structures & Algorithms
+- 🐳 Docker & PostgreSQL
+- 🌌 System Design & Distributed Systems
 
 ---
 
-### 📈 GitHub Stats
+## 🛠 Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=particle13&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=particle13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="36" src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,spring,postgres,docker,git,linux,vscode"/>
 </p>
 
 ---
 
-### 📌 Currently
+## 📊 GitHub
 
-* 🚀 Building backend & full-stack projects
-* 📚 Improving DSA
-* 🌍 Starting to contribute to Open Source
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=particleOne-3&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=particleOne-3&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Spring Boot
+React & TypeScript
+Docker
+System Design
+Cloud Technologies
+```
+
+---
+
+## ⚛️ Particle Log
+
+```text
+Building one project.
+Learning one concept.
+Improving one percent.
+Every single day.
+```
 
 ---
 
 <div align="center">
 
-*"Observe. Learn. Build."*
+*"Observe • Learn • Build"*
 
 </div>
