@@ -1,90 +1,41 @@
 <div align="center">
 
-# ⚛️ particleOne-3
+# ⚛️ Hi, I'm Gajendra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+Software;Spring+Boot+%7C+React;Always+Learning..." />
-
-<p>
-Computer Science Student • Backend Developer • DSA Enthusiast
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=420&lines=Backend+Developer;Spring+Boot+%7C+React;DSA+Enthusiast;Always+Learning..." />
 
 </div>
 
----
+## 👋 Who am I?
 
-## 👋 About
+I'm a Computer Science student from India who enjoys building software, solving algorithmic problems and learning how scalable systems work.
 
-Hi, I'm **Gajendra**.
-
-I'm passionate about building scalable software, solving algorithmic problems, and continuously improving as a developer.
-
-My online identity **particleOne-3** is inspired by my interest in **quantum physics**, where even the smallest particles can produce extraordinary outcomes.
+Outside programming, I'm fascinated by **quantum physics**, which inspired my online identity **particleOne-3**.
 
 ---
 
-## ⚡ Current Focus
+## 🚀 What am I currently working on?
 
-- ☕ Java & Spring Boot
-- ⚛️ React & TypeScript
-- 🧩 Data Structures & Algorithms
-- 🐳 Docker & PostgreSQL
-- 🌐 Backend Engineering
-- ☁️ Cloud & System Design
+- Building Backend Projects with Spring Boot
+- Learning React & TypeScript
+- Improving Data Structures & Algorithms
+- Exploring System Design & Docker
 
 ---
 
-## 🛠 Stack
+## 🛠 What tools do I use?
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,spring,postgres,docker,git,linux,vscode&perline=11" height="34"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,spring,postgres,docker,git,linux,vscode" height="34"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 💻 Coding Profiles
 
-```text
-Spring Boot
-React & TypeScript
-Docker
-System Design
-Cloud Technologies
-```
+<p align="left">
 
----
-
-## ⚛️ Particle Log
-
-```text
-$ whoami
-particleOne-3
-
-$ role
-Backend Developer
-
-$ current_focus
-Building scalable backend systems
-
-$ learning
-Spring Boot
-React
-Docker
-System Design
-
-$ philosophy
-Observe.
-Learn.
-Build.
-Repeat.
-```
-
----
-
-## 🧩 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/particle-13/">
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -98,6 +49,8 @@ Repeat.
 
 <div align="center">
 
-### ⚛️ "Every great system starts as a small idea."
+### ⚛️ particleOne-3
+
+*"Observe • Learn • Build"*
 
 </div>
