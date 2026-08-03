@@ -41,7 +41,7 @@ Computer Science student passionate about building scalable software and solving
 
 * 🚀 Building backend & full-stack projects
 * 📚 Improving DSA
-* 🌍 Contributing to Open Source
+* 🌍 Starting to contribute to Open Source
 
 ---
 
